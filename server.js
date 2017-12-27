@@ -22,8 +22,6 @@ app.use((req, res, next) => {
   next();
 });
 
-//Testing again
-//Just testing if git works
 // app.use((req, res, next) => {
 //   res.render('maintenance.hbs');
 // });
